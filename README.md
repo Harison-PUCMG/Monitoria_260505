@@ -1,6 +1,6 @@
 # Vida de Estudante
 
-Repositório com os integrantes: Eloy e Geraldo
+Repositório com os integrantes: Eloy e Geraldo Rodrigo.
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
